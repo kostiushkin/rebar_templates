@@ -3,6 +3,7 @@
 %% API
 -export([start/0, stop/0]).
 
+%% API
 start() ->
     start(?MODULE).
 
