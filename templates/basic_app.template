@@ -3,3 +3,7 @@
 {template, "basicapp.app.src", "src/{{appid}}.app.src"}.
 {template, "basicapp_app.erl", "src/{{appid}}_app.erl"}.
 {template, "basicapp_sup.erl", "src/{{appid}}_sup.erl"}.
+{template, "rebar.config", "rebar.config"}.
+{template, "sys.config", "sys.config"}.
+{template, "start_dev.sh", "start_dev.sh"}.
+{template, "Makefile", "Makefile"}.

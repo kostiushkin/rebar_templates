@@ -1,0 +1,5 @@
+{variables, [{libid, "basiclib"}]}.
+{template, "basiclib.erl", "src/{{libid}}.erl"}.
+{template, "basiclib.app.src", "src/{{libid}}.app.src"}.
+{template, "rebar.config", "rebar.config"}.
+{template, "Makefile", "Makefile"}.
