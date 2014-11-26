@@ -1,0 +1,2 @@
+{variables, [{srvid, "basicsrv"}]}.
+{template, "basicsrv.erl", "src/{{srvid}}.erl"}.
